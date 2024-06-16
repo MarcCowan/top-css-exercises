@@ -6,3 +6,14 @@
 .three {
     font-size: 24px;
 }
+
+#FirstID {
+    color: blue;
+    font-size: 36px;
+}
+
+#SecondID {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
